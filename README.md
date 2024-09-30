@@ -1,0 +1,2 @@
+# gadocs
+WIP GoAnimate Documentation
